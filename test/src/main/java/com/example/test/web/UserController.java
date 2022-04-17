@@ -1,6 +1,6 @@
 package com.example.test.web;
 
-import com.example.test.UserDto;
+import com.example.test.user.UserDto;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;

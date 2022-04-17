@@ -18,6 +18,8 @@ public class UserEntity {
     int age;
     String password;
 
+    ///주석 ~!~!~!~!
+
 
 
 }

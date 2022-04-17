@@ -16,6 +16,7 @@ public class UserEntity {
     String name;
     String gender;
     int age;
+    String password;
 
 
 

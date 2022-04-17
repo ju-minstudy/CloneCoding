@@ -1,4 +1,4 @@
-package com.example.test;
+package com.example.test.user;
 
 import lombok.Data;
 
@@ -6,5 +6,7 @@ import lombok.Data;
 public class UserDto {
     String name;
     String gender;
+    String password;
+    String hello;
     int age;
 }

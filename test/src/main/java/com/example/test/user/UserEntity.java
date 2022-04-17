@@ -1,4 +1,4 @@
-package com.example.test;
+package com.example.test.user;
 
 import lombok.Data;
 
@@ -17,6 +17,8 @@ public class UserEntity {
     String gender;
     int age;
     String password;
+
+    ///주석 ~!~!~!~!
 
 
 

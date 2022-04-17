@@ -6,5 +6,6 @@ import lombok.Data;
 public class UserDto {
     String name;
     String gender;
+    String password;
     int age;
 }

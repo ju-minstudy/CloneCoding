@@ -27,7 +27,7 @@ public class UserController {
 
     @PostMapping()
     public String postUser(Model model){
-        
+
 
         return null;
     }

@@ -1,8 +1,6 @@
 package com.example.test.service;
 
-import com.example.test.UserDto;
-import com.example.test.UserEntity;
-import com.example.test.UserRepository;
+
 import com.example.test.user.UserDto;
 import com.example.test.user.UserEntity;
 import com.example.test.user.UserRepository;
@@ -26,5 +24,5 @@ public class UserService {
 
 
 
-    //수정했다 
+    //수정했다
 }
